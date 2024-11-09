@@ -16,7 +16,7 @@
 
 ## Professor
 
-- Harison
+- Harison Puc
 
 # Documentação
 
