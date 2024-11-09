@@ -21,7 +21,7 @@
 # Documentação
 
 <ol>
-<li>Etapa<a href="docs/1-Documentação de Contexto.md"> etapa Documentação de Contexto</a></li>
+<li>Etapa<a href="docs/1-Documentação de Contexto.md"> Etapa 1: Documentação de Contexto</a></li>
 <li><a href="docs/2-Especificação do Projeto.md"> Especificação do Projeto</a></li>
 <li><a href="docs/3-Projeto de Interface.md"> Projeto de Interface</a></li>
 <li><a href="docs/4-Metodologia.md"> Metodologia</a></li>
