@@ -6,6 +6,7 @@
 
 ## Integrantes
 
+- Ana
 - Alice Miranda
 - Benjamin 
 - Bruno 
