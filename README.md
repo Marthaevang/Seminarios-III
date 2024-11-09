@@ -1,5 +1,6 @@
 # Matemática Inclusiva
 `Tema: Desenvolvimento de sistema para ensino de operações matemáticas básicas`
+
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: Seminários III`
 `2024 - Semestre 2`
