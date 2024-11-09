@@ -16,8 +16,12 @@
 
 ## Professor
 
-- Harison Professor
+- Harison Herman
   
+## Tema 
+
+Desenvolvimento de sistema para ensino de operações matemáticas básicas
+
 # Documentação
 
 <ol>
