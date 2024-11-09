@@ -6,14 +6,16 @@
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Alice Miranda
+- Benjamin 
+- Bruno 
+- Camila Sanches
+- Martha Evangelista
+- Rafael
 
 ## Professor
 
-- Mestre Yoda
+- Harison
 
 # Documentação
 
