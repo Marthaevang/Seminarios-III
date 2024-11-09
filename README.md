@@ -19,9 +19,11 @@
 - Harison Professor
   
 # Documentação
-## Etapa 1
+### Etapa 1
 <ol>
 <li><a href="docs/1-Documentação de Contexto.md"> Documentação de Contexto</a></li>
+ <ol>
+  ### Etapa 1
 <li><a href="docs/2-Especificação do Projeto.md"> Especificação do Projeto</a></li>
 <li><a href="docs/3-Projeto de Interface.md"> Projeto de Interface</a></li>
 <li><a href="docs/4-Metodologia.md"> Metodologia</a></li>
