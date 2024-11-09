@@ -6,10 +6,10 @@
 
 ## Integrantes
 
-- Ana
+- Ana Beatriz
 - Alice Miranda
 - Benjamin 
-- Bruno 
+- Bruno França
 - Camila Sanches
 - Martha Evangelista
 - Rafael
