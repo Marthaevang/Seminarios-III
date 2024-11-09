@@ -1,8 +1,8 @@
-# TÍTULO DO PROJETO
+# Matemática Inclusiva
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`2021 - Semestre 1`
+`Disciplina: Seminários III`
+`2024 - Semestre 2`
 
 ## Integrantes
 
