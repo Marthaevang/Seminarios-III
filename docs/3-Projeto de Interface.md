@@ -12,7 +12,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 A página inicial dá as boas-vindas ao usuário com uma mensagem inclusiva e um vídeo em Libras (Língua Brasileira de Sinais), explicando como navegar e utilizar o site. Esse vídeo é essencial para garantir acessibilidade às pessoas com deficiência auditiva, cumprindo o requisito funcional de comunicação em Libras.
 
 Além disso, há uma breve introdução escrita explicando o objetivo do projeto, que é tornar o aprendizado de operações matemáticas básicas mais acessível e visual. Isso contribui para um aprendizado mais inclusivo ao facilitar a compreensão de pessoas com deficiência auditiva.
-(src/pagina_inicial.png)
+(Marthaevang/Seminarios-III/blob/main/src/pagina_inicial.png)
 
 ## Aulas
 
