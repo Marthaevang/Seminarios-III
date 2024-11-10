@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Calculadora - Matemática Inclusiva</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style_calculadora.css">
 </head>
 <body>
     <nav class="nav-bar">
@@ -17,9 +18,36 @@
 
     <main class="conteudo">
         <h1>Calculadora</h1>
+        <br><br>
         <div class="calculadora">
-            Calculadora
+            <div class="display" role="textbox" aria-label="Resultado" tabindex="0">0</div>
+            <div class="teclado">
+
+                <button class="btn btn-clear" aria-label="Limpar">C</button>
+                <button class="btn btn-del" aria-label="Apagar">⌫</button>
+
+                <button class="btn btn-op" aria-label="Dividir">÷</button>
+                <button class="btn" aria-label="Sete">7</button>
+                <button class="btn" aria-label="Oito">8</button>
+                <button class="btn" aria-label="Nove">9</button>
+                <button class="btn btn-op" aria-label="Somar">+</button>
+                
+                <button class="btn" aria-label="Quatro">4</button>
+                <button class="btn" aria-label="Cinco">5</button>
+                <button class="btn" aria-label="Seis">6</button>
+                <button class="btn btn-op" aria-label="Multiplicar">×</button>
+                
+                <button class="btn" aria-label="Um">1</button>
+                <button class="btn" aria-label="Dois">2</button>
+                <button class="btn" aria-label="Tres">3</button>
+                <button class="btn btn-op" aria-label="Subtrair">-</button>
+                
+                <button class="btn btn-zero" aria-label="Zero">0</button>
+                <button class="btn" aria-label="Vírgula">,</button>
+                <button class="btn btn-equal" aria-label="Igual">=</button>
+            </div>
         </div>
     </main>
+    <script src="script.js"></script>
 </body>
 </html>
