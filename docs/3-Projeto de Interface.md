@@ -7,29 +7,29 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
  Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
 
-## User Flow
+## Página Inicial
 
-![Exemplo de UserFlow](img/userflow.jpg)
+(img/pagina_inicial.jpg)
+A página inicial dá as boas-vindas ao usuário com uma mensagem inclusiva e um vídeo em Libras (Língua Brasileira de Sinais), explicando como navegar e utilizar o site. Esse vídeo é essencial para garantir acessibilidade às pessoas com deficiência auditiva, cumprindo o requisito funcional de comunicação em Libras.
 
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
+Além disso, há uma breve introdução escrita explicando o objetivo do projeto, que é tornar o aprendizado de operações matemáticas básicas mais acessível e visual. Isso contribui para um aprendizado mais inclusivo ao facilitar a compreensão de pessoas com deficiência auditiva.
 
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
+## Aulas
 
+(img/aulas.jpg)
+A página "Aulas", oferece quatro opções principais de tópicos: Aula - Adição, Aula - Subtração, Aula - Multiplicação e Aula - Divisão. Cada uma das áreas retangulares representa uma aula que foca em uma operação matemática específica. A organização clara facilita que o usuário escolha o conteúdo que deseja estudar, tornando o aprendizado mais direcionado.
 
-## Wireframes
+## Exercícios
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+(img/exercicios.jpg)
+A página "Exercícios", que também está dividida em quatro áreas correspondentes aos tópicos: Exercícios - Adição, Exercícios - Subtração, Exercícios - Multiplicação e Exercícios - Divisão. Essa organização permite ao usuário praticar de forma específica os conteúdos estudados nas aulas. 
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+## Calculadora
+A "Calculadora", é onde o usuário pode realizar cálculos de maneira prática e direta. A calculadora é um recurso adicional que permite a prática e aplicação dos conceitos aprendidos nas aulas. Esta funcionalidade atende ao requisito de oferecer uma ferramenta de apoio para cálculos, promovendo autonomia e reforço do aprendizado.
+
+(img/calculadora.jpg)
+
+## Sobre
+A página "Sobre" apresenta uma breve explicação sobre o projeto e os desenvolvedores, proporcionando um contexto sobre o propósito da plataforma. Este espaço serve para conectar o usuário ao time de desenvolvimento e reforçar a missão de inclusão do projeto.
+
+(img/sobre.jpg)
