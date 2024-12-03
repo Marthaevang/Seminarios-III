@@ -3,7 +3,7 @@
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: Seminários III`
-`2024 - Semestre 2`
+`2024 - Semestre 3`
 
 ## Integrantes
 
