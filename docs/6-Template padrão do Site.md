@@ -10,3 +10,12 @@ Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com
 > - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
 > - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
 > - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+>
+> - Nosso cabeçalho:
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matemática Inclusiva</title>
+    <link rel="icon" href="src/favicon.png" type="image/png">
+    <link rel="stylesheet" href="css/style.css">
+</head>
