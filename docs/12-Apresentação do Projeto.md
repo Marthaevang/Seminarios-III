@@ -20,4 +20,4 @@ O grupo deve ter o cuidado em utilizar figuras, imagens, e cores dentro do conte
 
 Faça uma apresentação de um resumo de todos o processo de desenvolvimento e no final apresente a solução desenvolvida, usando um pequeno vídeo.
 
-[Assista ao vídeo da apresentação](video_apresentacao.mp4)
+https://youtu.be/QAOM0XeuscA
