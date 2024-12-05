@@ -9,13 +9,12 @@ LINK DO SITE: https://brunobfranca0.github.io/matematicainterativa.github.io/
 
 ## Integrantes
 
-- Ana Beatriz
 - Alice Miranda
 - Benjamin 
 - Bruno França
 - Camila Sanches
 - Martha Evangelista
-- Rafael
+- Rafael Rabelo
 
 ## Professor
 
