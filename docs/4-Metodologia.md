@@ -39,18 +39,18 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ## Gerenciamento de Projeto
 
-###Planejamento
+### Planejamento
 
 Levantamento de Requisitos: Realização de entrevistas com professores de matemática e especialistas em acessibilidade para compreender as necessidades do público-alvo e identificar os requisitos funcionais e de acessibilidade.
 Criação do Backlog: Com base nos requisitos levantados, foi criado um backlog de funcionalidades priorizadas. A equipe dividiu o projeto em tarefas e histórias de usuário para facilitar o desenvolvimento incremental.
 
-###Projeto
+### Projeto
 
 Protótipos de Baixa e Alta Fidelidade: O processo de design foi conduzido usando Figma para criar protótipos de baixa e alta fidelidade. Esses protótipos contemplaram:
 Elementos visuais acessíveis, considerando contraste, fontes legíveis e navegação clara.
 Interação em Libras, com a inclusão de vídeos e ícones que representam conceitos matemáticos e interações em Língua Brasileira de Sinais.
 
-###Desenvolvimento
+### Desenvolvimento
 
 Implementação em Ciclos (Sprints): O desenvolvimento foi organizado em ciclos de sprints, com duração de 2 a 3 semanas. Cada sprint focou na entrega incremental de funcionalidades, garantindo que o projeto fosse desenvolvido de forma modular e com constantes melhorias.
 Integração de Libras: A integração da Língua Brasileira de Sinais foi feita em todas as interações principais do site, permitindo que usuários surdos ou com deficiência auditiva pudessem aprender matemática de forma inclusiva.
