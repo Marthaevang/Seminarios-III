@@ -1,0 +1,135 @@
+.calculadora {
+    background: linear-gradient(135deg, #11A8E0, #0072ff);
+    color: white;
+    border-radius: 20px;
+    padding: 30px;
+    width: 100%;
+    max-width: 520px;
+    margin: 2rem auto;
+    aspect-ratio: 1;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.3);
+    display: flex;
+    flex-direction: column; /* Alinha o visor acima do teclado */
+    font-size: 1.5rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.display {
+    background-color: #ecf0f1;
+    border-radius: 15px;
+    padding: 15px;
+    font-size: 2rem;
+    text-align: right;
+    margin-bottom: 15px;
+    width: 100%; /* Ajusta para ocupar mais espaço na largura */
+    min-height: 60px;
+    color: #2c3e50;
+    font-weight: bold;
+    overflow: hidden;
+    box-shadow: inset 0 4px 10px rgba(0, 0, 0, 0.1);
+    border: 2px solid #bdc3c7;
+}
+
+.teclado {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    width: 100%; /* Garante que o teclado ocupe toda a largura */
+    padding: 10px;
+}
+
+.btn {
+    background-color: #3498db;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 20px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.2s;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+.btn:hover {
+    background-color: #2980b9;
+    transform: translateY(-4px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+.btn:active {
+    transform: translateY(2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.btn:focus {
+    outline: 3px solid #f1c40f;
+    outline-offset: 3px;
+}
+
+.btn-clear {
+    background-color: #e74c3c;
+    grid-column: span 2;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.btn-clear:hover {
+    background-color: #c0392b;
+}
+
+.btn-op {
+    background-color: #2ecc71;
+    font-weight: bold;
+}
+
+.btn-op:hover {
+    background-color: #27ae60;
+}
+
+.btn-equal {
+    background-color: #f1c40f;
+    color: #2c3e50;
+    font-weight: bold;
+}
+
+.btn-equal:hover {
+    background-color: #f39c12;
+}
+
+.btn-zero {
+    grid-column: span 2;
+}
+
+.btn-del {
+    background-color: #e67e22;
+    font-weight: bold;
+}
+
+.btn-del:hover {
+    background-color: #d35400;
+}
+
+@media (max-width: 480px) {
+    .calculadora {
+        padding: 10px; /* Ajustado para dispositivos muito pequenos */
+        max-width: 320px; /* Menor largura para telefones */
+       height: 425px;
+    }
+
+    .display {
+        font-size: 1.5rem; /* Reduzido para caber em telas menores */
+        padding: 10px;
+    }
+
+    .btn {
+        padding: 10px; /* Menores para acomodar mais botões */
+        font-size: 1rem; /* Ajuste proporcional */
+    }
+
+    .teclado {
+        gap: 5px; /* Espaçamento reduzido */
+    }
+}
