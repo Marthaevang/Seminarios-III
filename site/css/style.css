@@ -1,1 +1,419 @@
+/* Importando a fonte */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: #f7f7ff;
+    min-height: 100vh;
+    color: #333;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: #10D6E0;
+    text-align: center;
+    margin: 1.5rem 0;
+    font-weight: 600;
+    text-shadow: 1px 1px 2px rgba(4, 0, 245, 0.2);
+    letter-spacing: 1px;
+}
+
+/* Ajuste para Títulos em telas menores */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2rem;
+    }
+    body {
+        margin-top: 30px;
+    }
+}
+
+.nav-bar {
+    background-color: #10D6E0;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-bottom: 4px solid #2BAFB6;
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%; /* Para ocupar toda a largura */
+    z-index: 10;
+}
+
+/* Links da Nav Bar */
+.nav-links {
+    display: flex;
+    gap: 1.5rem;
+}
+
+.nav-bar a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.2rem;
+    transition: color 0.3s ease;
+}
+
+.nav-bar a:hover {
+    color: #f7f7ff;
+    text-shadow: 2px 2px 2px #2BAFB6;
+}
+
+/* Botão Hamburger */
+.nav-toggle {
+    display: none; /* Sempre visível */
+    flex-direction: column;
+    cursor: pointer;
+    gap: 4px;
+    position: absolute; /* Posicionar no canto esquerdo */
+    left: 1rem; /* Ajuste da posição horizontal */
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.nav-toggle span {
+    width: 25px;
+    height: 3px;
+    background-color: white;
+    border-radius: 3px;
+    transition: transform 0.3s;
+}
+
+/* Menu Mobile */
+.nav-links-mobile {
+    display: none;
+    flex-direction: column;
+    background-color: #10D6E0;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    padding: 1rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.nav-links-mobile a {
+    margin-bottom: 1rem;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .nav-bar {
+        height: 55px; /* Aumenta a altura da barra no mobile */
+        position: fixed; /* Torna fixa apenas no mobile */
+    }
+    .nav-links {
+        display: none;
+    }
+
+    .nav-toggle {
+        display: flex;
+    }
+
+    .nav-links-mobile.active {
+        display: flex;
+    }
+}
+
+/* Conteúdo */
+.conteudo {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+.cards-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap; /* Permitir que os cards fiquem em novas linhas */
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+/* Cards Principais */
+.card-index {
+    background: linear-gradient(135deg, #4facfe, #00f2fe);
+    color: white;
+    padding: 1.5rem; /* Reduz o padding */
+    border-radius: 16px;
+    flex: 1;
+    text-align: center;
+    min-height: 120px; /* Reduz a altura mínima */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    cursor: pointer;
+    transition: transform 0.3s, box-shadow 0.3s;
+    margin-top: 20px; /* Menor espaçamento no topo */
+}
+
+.card-index:hover {
+    transform: scale(1.05); /* Reduz o efeito de escala no hover */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .cards-container {
+        gap: 15px; /* Reduz o espaçamento entre os cards */
+    }
+
+    .grid-container {
+        grid-template-columns: 1fr; /* Apenas uma coluna em telas menores */
+    }
+
+    .card-index {
+        padding: 1rem; /* Padding menor para dispositivos móveis */
+        min-height: 100px; /* Altura mínima ajustada */
+    }
+}
+
+
+/* Cards Secundários */
+.card {
+    background: linear-gradient(135deg, #0BE0A9, #27B692);
+    color: white;
+    padding: 2rem;
+    border-radius: 16px;
+    text-align: center;
+    aspect-ratio: 16/9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    transition: transform 0.3s, box-shadow 0.3s;
+    cursor: pointer;
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+}
+
+.card:hover {
+    transform: scale(1.1);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+}
+
+.card .symbol {
+    font-size: 4rem;
+    margin-bottom: 0.5rem;
+    color: #ffffff !important;
+    font-family: 'Arial', sans-serif; /* Define uma fonte consistente */
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.card .text {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+}
+
+@media (max-width: 768px) {
+    .card {
+        padding: 1rem;
+    }
+
+    .card .symbol {
+        font-size: 3.5rem;
+    }
+
+    .card .text {
+        font-size: 1.2rem;
+    }
+}
+
+.container-video {
+    background: white;
+    width: 100%;
+    max-width: 600px;
+    height: 300px;
+    margin: 2rem auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    border-radius: 16px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.video-local {
+    width: 100%;
+    max-width: 640px; /* Tamanho máximo para o vídeo */
+    height: auto;
+    margin-top: 10px;
+}
+
+.descricao {
+    max-width: 800px;
+    margin: 3rem auto;
+    line-height: 1.8;
+    text-align: left;
+    background-color: #fff3cd;
+    color: #856404;
+    border-radius: 12px;
+    padding: 1.5rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.botao-comecar {
+    background: linear-gradient(135deg, #00c6ff, #0072ff);
+    color: white;
+    padding: 1rem 2rem;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 1rem;
+    margin: 2rem 0;
+    transition: transform 0.2s, box-shadow 0.3s;
+}
+
+.botao-comecar:hover {
+    transform: scale(1.1);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* Texto Informativo */
+.sobre-texto {
+    max-width: 800px;
+    margin: 3rem auto;
+    line-height: 1.8;
+    text-align: left;
+    background-color: #fff3cd;
+    color: #856404;
+    border-radius: 12px;
+    padding: 1.5rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Responsividade Adicional */
+@media (max-width: 480px) {
+    body {
+        padding: 1rem;
+    }
+
+    .conteudo {
+        padding: 1rem;
+    }
+
+    h1 {
+        font-size: 1.8rem;
+    }
+
+    .card {
+        font-size: 0.9rem;
+        padding: 1.5rem;
+    }
+
+    .card-index {
+        font-size: 1rem;
+        padding: 1.5rem;
+    }
+}
+
+.popup {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    overflow: hidden;
+}
+
+.popup-content {
+    position: relative;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 80%;
+    max-height: 80%;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+/* Responsividade para o vídeo */
+#popup-video {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;  /* Mantém a proporção 16:9 */
+    max-width: 100%;
+}
+
+.close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    cursor: pointer;
+    color: #333;
+    transition: color 0.3s;
+}
+
+.close:hover {
+    color: #10D6E0;
+}
+
+/* Responsividade geral do popup */
+@media (max-width: 1024px) {
+    .popup-content {
+        width: 90%;
+        height: 90%;
+    }
+
+    .close {
+        font-size: 25px;
+    }
+}
+
+@media (max-width: 768px) {
+    .popup-content {
+        width: 95%;
+        height: auto;
+        padding: 10px;
+    }
+
+    .close {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 480px) {
+    .popup-content {
+        width: 100%;
+        height: auto;
+        padding: 8px;
+    }
+
+    .close {
+        font-size: 18px;
+    }
+}
+
+.creditos {
+    text-align: center;
+    font-size: 12px;
+    color: #888;
+    margin-top: 10px;
+}
 
