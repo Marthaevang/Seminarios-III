@@ -1,8 +1,60 @@
-# Registro de Testes de Software
+=============================================================================
 
-<span style="color:red">Pré-requisitos: <a href="7-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></span>, <a href="10-Plano de Testes de Usabilidade.md"> Plano de Testes de Usabilidade</a>
+Registro de Testes de Usabilidade
 
-Relatório com evidências dos testes e relatos dos usuários participantes, baseado em um plano de testes pré-definido.
+-> Informações do Participante:
 
-> **Links Úteis**:
-> - [Ferramentas deTestes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
+	- ID do Participante: [Ex.: P1]
+	- Idade:
+	- Experiência com Tecnologia (Alta/Média/Baixa):
+
+-------------------------------------------------------------
+
+Resultados do Teste:
+
+Tarefa 1: Página Inicial
+
+	- Tempo Gasto:
+	- Dificuldades Encontradas:
+	- Observações do Facilitador:
+
+------------------------------------------------------------
+
+Tarefa 2: Acesso a Vídeos
+
+	- Funcionamento do Vídeo (Sim/Não):
+	- Compreensão Visual:
+	- Comentários do Participante:
+
+---------------------------------------------------------
+
+Tarefa 3: Realização de Exercícios
+
+	- Tarefa Concluída (Sim/Não):
+	- Erros Encontrados:
+	- Facilidade de Uso (1-5):
+
+---------------------------------------------------------
+
+Tarefa 4: Navegação Geral
+
+	- Tempo para Localizar Seção:
+	- Problemas de Navegação:
+	- Sugestões:
+
+---------------------------------------------------------
+
+Feedback Geral:
+	
+	- Pontos Positivos:
+	- Aspectos a Melhorar:
+	- Nota Geral do Participante (1-10):
+
+---------------------------------------------------------
+
+Conclusão do Registro:
+	
+	- Recomendações Baseadas no Teste:
+	- Ações Imediatas para Correção:
+
+=========================================================
