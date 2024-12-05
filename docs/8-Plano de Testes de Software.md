@@ -1,4 +1,5 @@
-##Plano de Testes de Software
+###Plano de Testes de Software###
+
 ### Cenários de Testes para a Aplicação
 
 A seguir, serão apresentados os cenários de testes realizados para avaliar se os requisitos da plataforma educacional inclusiva foram atendidos. O foco é verificar a funcionalidade e a usabilidade do sistema, garantindo que ele seja acessível e funcional para alunos com deficiência auditiva.
