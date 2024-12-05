@@ -1,9 +1,11 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+A equipe adotou uma abordagem ágil para o desenvolvimento do site de matemática inclusiva em Libras, priorizando a colaboração contínua, entregas iterativas e a garantia de acessibilidade. O objetivo principal foi criar uma plataforma digital que seja acessível, funcional e inclusiva para todos os usuários, com um foco especial na integração de Libras (Língua Brasileira de Sinais) como uma característica central da experiência do usuário.
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+Mais especificamente, buscamos desenvolver uma ferramenta educacional que permita a compreensão e o aprendizado de matemática por pessoas surdas ou com deficiência auditiva, proporcionando a elas um acesso equitativo ao conteúdo matemático. Isso foi alcançado ao integrar interações em Libras de forma fluida ao longo do site, permitindo que conceitos matemáticos fossem traduzidos para a língua de sinais e oferecendo um conteúdo que atenda às necessidades desse público.
+
+Além disso, o site foi projetado com princípios de acessibilidade em mente, garantindo que ele seja facilmente utilizável por qualquer pessoa, independentemente de suas limitações auditivas, visuais ou motoras. Dessa forma, o objetivo não foi apenas tornar o conteúdo acessível, mas também promover uma experiência de aprendizado inclusiva e eficaz, onde todos os usuários possam interagir de maneira igualitária e significativa com o conteúdo matemático.
 
 ## Controle de Versão
 
