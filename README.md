@@ -1,6 +1,4 @@
 # Matemática Inclusiva
-LINK DO SITE: https://brunobfranca0.github.io/matematicainterativa.github.io/
-<br><br>
 `Tema: Desenvolvimento de sistema para ensino de operações matemáticas básicas`
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
@@ -38,9 +36,9 @@ LINK DO SITE: https://brunobfranca0.github.io/matematicainterativa.github.io/
 <li><a href="docs/13-Referências.md"> Referências</a></li>
 </ol>
 
-# Código
+# Site
 
-<li><a href="src/README.md"> Código Fonte</a></li>
+https://brunobfranca0.github.io/matematicainterativa.github.io/
 
 # Apresentação
 
