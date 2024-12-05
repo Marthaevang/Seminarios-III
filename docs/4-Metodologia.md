@@ -39,41 +39,18 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ## Gerenciamento de Projeto
 
-### Divisão de Papéis
+###Planejamento
 
-Apresente a divisão de papéis entre os membros do grupo.
+Levantamento de Requisitos: Realização de entrevistas com professores de matemática e especialistas em acessibilidade para compreender as necessidades do público-alvo e identificar os requisitos funcionais e de acessibilidade.
+Criação do Backlog: Com base nos requisitos levantados, foi criado um backlog de funcionalidades priorizadas. A equipe dividiu o projeto em tarefas e histórias de usuário para facilitar o desenvolvimento incremental.
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+###Projeto
 
-### Processo
+Protótipos de Baixa e Alta Fidelidade: O processo de design foi conduzido usando Figma para criar protótipos de baixa e alta fidelidade. Esses protótipos contemplaram:
+Elementos visuais acessíveis, considerando contraste, fontes legíveis e navegação clara.
+Interação em Libras, com a inclusão de vídeos e ícones que representam conceitos matemáticos e interações em Língua Brasileira de Sinais.
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+###Desenvolvimento
 
-### Ferramentas
-
-As ferramentas empregadas no projeto são:
-
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de diagramação
-
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
-
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+Implementação em Ciclos (Sprints): O desenvolvimento foi organizado em ciclos de sprints, com duração de 2 a 3 semanas. Cada sprint focou na entrega incremental de funcionalidades, garantindo que o projeto fosse desenvolvido de forma modular e com constantes melhorias.
+Integração de Libras: A integração da Língua Brasileira de Sinais foi feita em todas as interações principais do site, permitindo que usuários surdos ou com deficiência auditiva pudessem aprender matemática de forma inclusiva.
