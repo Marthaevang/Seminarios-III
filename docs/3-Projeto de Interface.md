@@ -13,11 +13,6 @@ Além disso, há uma breve introdução escrita explicando o objetivo do projeto
 A página "Aulas", oferece quatro opções principais de tópicos: Aula - Adição, Aula - Subtração, Aula - Multiplicação e Aula - Divisão. Cada uma das áreas retangulares representa uma aula que foca em uma operação matemática específica. A organização clara facilita que o usuário escolha o conteúdo que deseja estudar, tornando o aprendizado mais direcionado.
 <img src="img/aulas.png/" width="660" height="500"/>
 
-## Exercícios
-
-A página "Exercícios", que também está dividida em quatro áreas correspondentes aos tópicos: Exercícios - Adição, Exercícios - Subtração, Exercícios - Multiplicação e Exercícios - Divisão. Essa organização permite ao usuário praticar de forma específica os conteúdos estudados nas aulas.
-<img src="img/exercicios.png/" width="660" height="500"/>
-
 ## Calculadora
 
 A "Calculadora", é onde o usuário pode realizar cálculos de maneira prática e direta. A calculadora é um recurso adicional que permite a prática e aplicação dos conceitos aprendidos nas aulas. Esta funcionalidade atende ao requisito de oferecer uma ferramenta de apoio para cálculos, promovendo autonomia e reforço do aprendizado.
