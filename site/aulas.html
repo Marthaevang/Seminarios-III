@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aulas - Matemática Inclusiva</title>
+    <link rel="icon" href="src/favicon.png" type="image/png">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="nav-bar">
+        <div class="nav-links">
+        <a href="index.html">INÍCIO</a>
+        <a href="aulas.html">AULAS</a>
+        <a href="calculadora.html">CALCULADORA</a>
+        <a href="sobre.html">SOBRE</a>
+    </div>
+
+    <div class="nav-toggle">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+    <div class="nav-links-mobile">
+        <a href="index.html">INÍCIO</a>
+        <a href="aulas.html">AULAS</a>
+        <a href="calculadora.html">CALCULADORA</a>
+        <a href="sobre.html">SOBRE</a>
+    </div>
+</div>
+
+    <div vw class="enabled">
+        <div vw-access-button class="active"></div>
+        <div vw-plugin-wrapper>
+            <div class="vw-plugin-top-wrapper"></div>
+        </div>
+    </div>
+    <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+    <script>
+        new window.VLibras.Widget('https://vlibras.gov.br/app');
+    </script>    
+
+<main class="conteudo">
+    <h1>Aulas</h1>
+    <div class="grid-container">
+        <div class="card" onclick="openPopup('video1')">
+            <span class="symbol" style="font-size: 6rem;">+</span>
+            <span class="text">Aula - Adição</span>
+        </div>
+        <div class="card" onclick="openPopup('video2')">
+            <span class="symbol" style="font-size: 6rem;">-</span>
+            <span class="text">Aula - Subtração</span>
+        </div>
+        <div class="card" onclick="openPopup('video3')">
+            <span class="symbol">X</span>
+            <span class="text">Aula - Multiplicação</span>
+        </div>
+        <div class="card" onclick="openPopup('video4')">
+            <span class="symbol">%</span>
+            <span class="text">Aula - Divisão</span>
+        </div>
+    </div>
+</main>
+
+<!-- Popup de vídeo -->
+<div id="video-popup" class="popup">
+    <div class="popup-content">
+        <span class="close" onclick="closePopup()">&times;</span>
+        <iframe id="popup-video" width="760" height="515" src="" frameborder="0" allowfullscreen></iframe>
+        <p class="creditos">Créditos ao criador: "O ensino-aprendizagem de matemática para Surdos"</p>
+    </div>
+</div>
+
+    <script src="js/script.js"></script>
+</body>
+</html>

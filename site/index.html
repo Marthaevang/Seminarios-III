@@ -1,1 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matemática Inclusiva</title>
+    <link rel="icon" href="src/favicon.png" type="image/png">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="nav-bar">
+        <div class="nav-links">
+            <a href="index.html">INÍCIO</a>
+            <a href="aulas.html">AULAS</a>
+            <a href="calculadora.html">CALCULADORA</a>
+            <a href="sobre.html">SOBRE</a>
+    </div>
 
+    <div class="nav-toggle">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+    <div class="nav-links-mobile">
+        <a href="index.html">INÍCIO</a>
+        <a href="aulas.html">AULAS</a>
+        <a href="calculadora.html">CALCULADORA</a>
+        <a href="sobre.html">SOBRE</a>
+    </div>
+</div>
+
+    <main class="conteudo">
+        <h1>Bem-vindo ao Matemática Inclusiva</h1>
+
+        <div vw class="enabled">
+            <div vw-access-button class="active"></div>
+            <div vw-plugin-wrapper>
+                <div class="vw-plugin-top-wrapper"></div>
+            </div>
+        </div>
+        <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+        <script>
+            new window.VLibras.Widget('https://vlibras.gov.br/app');
+        </script>        
+
+        <div class="container-video">
+            <video class="video-local" autoplay muted playsinline loop>
+                <source src="src/video_libras.mp4" type="video/mp4">
+                Seu navegador não suporta o elemento de vídeo.
+        </div>
+
+        <div class="descricao">
+            <p>Nosso projeto foi desenvolvido para tornar o aprendizado de operações matemáticas básicas mais acessível para pessoas com deficiência auditiva. Com aulas educativas, buscamos ajudar você a entender cálculos do dia a dia, como somas, subtrações, divisões e multiplicações, de maneira clara e visual.</p>
+            <p>Contamos também com uma calculadora interativa, que te ajudará na resolução de contas.</p>
+            <p>Explore as aulas, pratique no seu ritmo e conte com nosso suporte visual para um aprendizado mais fácil e inclusivo.</p>
+        </div>
+
+        <div class="cards-container">
+            <div class="card-index" onclick="window.location.href='aulas.html'">AULAS</div>
+            <div class="card-index" onclick="window.location.href='calculadora.html'">CALCULADORA</div>
+        </div>
+    </main>
+    <script src="js/script.js"></script>
+</body>
+</html>

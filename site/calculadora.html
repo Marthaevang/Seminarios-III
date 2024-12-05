@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora - Matemática Inclusiva</title>
+    <link rel="icon" href="src/favicon.png" type="image/png">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style_calculadora.css">
+</head>
+<body>
+    <div class="nav-bar">
+        <div class="nav-links">
+        <a href="index.html">INÍCIO</a>
+        <a href="aulas.html">AULAS</a>
+        <a href="calculadora.html">CALCULADORA</a>
+        <a href="sobre.html">SOBRE</a>
+    </div>
+
+    <div class="nav-toggle">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+    <div class="nav-links-mobile">
+        <a href="index.html">INÍCIO</a>
+        <a href="aulas.html">AULAS</a>
+        <a href="calculadora.html">CALCULADORA</a>
+        <a href="sobre.html">SOBRE</a>
+    </div>
+</div>
+
+    <div vw class="enabled">
+        <div vw-access-button class="active"></div>
+        <div vw-plugin-wrapper>
+            <div class="vw-plugin-top-wrapper"></div>
+        </div>
+    </div>
+    <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+    <script>
+        new window.VLibras.Widget('https://vlibras.gov.br/app');
+    </script>    
+
+    <main class="conteudo">
+        <h1>Calculadora</h1>
+        <br><br>
+        <div class="calculadora">
+            <div class="display">0</div>
+            <div class="teclado">
+                <button class="btn btn-clear">C</button>
+                <button class="btn btn-del">⌫</button>
+                <button class="btn btn-op">÷</button>
+                <button class="btn">7</button>
+                <button class="btn">8</button>
+                <button class="btn">9</button>
+                <button class="btn btn-op">×</button>
+                <button class="btn">4</button>
+                <button class="btn">5</button>
+                <button class="btn">6</button>
+                <button class="btn btn-op">-</button>
+                <button class="btn">1</button>
+                <button class="btn">2</button>
+                <button class="btn">3</button>
+                <button class="btn btn-op">+</button>
+                <button class="btn btn-zero">0</button>
+                <button class="btn">.</button>
+                <button class="btn btn-equal">=</button>
+            </div>
+        </div>
+    </main>
+    <script src="js/script.js"></script>
+</body>
+</html>
