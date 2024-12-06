@@ -24,7 +24,7 @@ Usuários surdos de diferentes idades e níveis de familiaridade com tecnologia,
 ## Etapas do Teste:
 
 ## 1. Preparação
-	-> Ferramentas Necessárias:
+	## Ferramentas Necessárias:
 
 		- Computador ou dispositivo móvel.
 		- Software para gravação de tela (se permitido pelos participantes).
