@@ -6,8 +6,7 @@ Os testes realizados na plataforma educacional inclusiva visaram garantir a aces
 
 1. **Comunicação em Libras**:
    - **Resultado**: O vídeo de boas-vindas em Libras foi exibido corretamente e a tradução foi clara.
-   - **Melhorias**: Ajustar o tempo de exibição dos elementos no vídeo para maior clareza.
-
+   - **Melhorias**: Ajustar o tempo de exibição de alguns elementos no vídeo para que as informações escritas e em Libras fiquem visíveis por um tempo maior.
 2. **Navegação nas Aulas de Matemática**:
    - **Resultado**: As aulas de adição, subtração, multiplicação e divisão funcionaram bem, com vídeos e animações explicativas acessíveis.
    - **Melhorias**: Otimizar a navegação para dispositivos móveis e tornar as animações mais interativas.
@@ -23,6 +22,3 @@ Os testes realizados na plataforma educacional inclusiva visaram garantir a aces
 5. **Acessibilidade com Leitores de Tela**:
    - **Resultado**: A plataforma foi acessível para leitores de tela, com navegação fluida.
    - **Melhorias**: Incluir descrições mais detalhadas para ícones e imagens.
-
-### **Conclusão**:
-A plataforma atende à maioria dos requisitos funcionais e não funcionais, garantindo uma experiência inclusiva para alunos surdos. As melhorias se concentrarão em ajustes de responsividade, acessibilidade visual e interatividade nas aulas.
