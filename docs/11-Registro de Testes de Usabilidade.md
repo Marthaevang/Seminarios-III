@@ -1,4 +1,4 @@
-========================================================================================================================================================================================
+
 
 # Registro de Testes de Usabilidade
 
@@ -8,7 +8,7 @@
 	- Idade:
 	- Experiência com Tecnologia (Alta/Média/Baixa):
 
--------------------------------------------------------------
+
 
 ## Resultados do Teste:
 
@@ -18,7 +18,7 @@
 	- Dificuldades Encontradas:
 	- Observações do Facilitador:
 
-------------------------------------------------------------
+
 
 ## Tarefa 2: Acesso a Vídeos
 
@@ -26,7 +26,6 @@
 	- Compreensão Visual:
 	- Comentários do Participante:
 
--------------------------------------------------------------
 
 ## Tarefa 3: Realização de Exercícios
 
@@ -34,7 +33,7 @@
 	- Erros Encontrados:
 	- Facilidade de Uso (1-5):
 
--------------------------------------------------------------
+
 
 ## Tarefa 4: Navegação Geral
 
@@ -42,7 +41,7 @@
 	- Problemas de Navegação:
 	- Sugestões:
 
--------------------------------------------------------------
+
 
 ## Feedback Geral:
 	
@@ -50,11 +49,11 @@
 	- Aspectos a Melhorar:
 	- Nota Geral do Participante (1-10):
 
--------------------------------------------------------------
+
 
 ## Conclusão do Registro:
 	
 	- Recomendações Baseadas no Teste:
 	- Ações Imediatas para Correção:
 
-========================================================================================================================================================================================
+
