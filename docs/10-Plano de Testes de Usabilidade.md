@@ -5,7 +5,7 @@
 ## Objetivo dos Testes:
 Avaliar a facilidade de uso, acessibilidade e eficácia do site em atender às necessidades de usuários surdos que desejam aprender matemática básica.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## Escopo
 Os testes irão verificar:
@@ -15,12 +15,12 @@ Os testes irão verificar:
 	- Navegação intuitiva e sem barreiras.
 	- Experiência de aprendizado dos usuários.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## Público-Alvo:
 Usuários surdos de diferentes idades e níveis de familiaridade com tecnologia, com foco em alunos do ensino básico.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Etapas do Teste:
 
 ## 1. Preparação
@@ -35,7 +35,7 @@ Usuários surdos de diferentes idades e níveis de familiaridade com tecnologia,
 		- 5 a 10 usuários surdos.
 		- Diversidade em idade e familiaridade com tecnologia.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## 2. Execução dos Testes
 ## Cenários de Uso:
@@ -55,7 +55,7 @@ Usuários surdos de diferentes idades e níveis de familiaridade com tecnologia,
 	5. Feedback do Usuário:
 		- Submeter um formulário de avaliação após usar o site.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## Métricas de Avaliação:
 
@@ -71,7 +71,7 @@ Usuários surdos de diferentes idades e níveis de familiaridade com tecnologia,
 	- Acessibilidade:
 		Feedback sobre compreensão de vídeos e design visual.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## Metodologia:
 
@@ -83,7 +83,7 @@ Usuários surdos de diferentes idades e níveis de familiaridade com tecnologia,
 		- Anotações manuais.
 		- Feedback verbal e gestual (se aplicável).
 		- Gravações de tela.
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## Cronograma:
 
