@@ -1,23 +1,13 @@
 # Apresentação
+## Matemática Interativa
 
-https://brunobfranca0.github.io/matematicainterativa.github.io/
-## Título do Projeto
+A solução desenvolvida consiste em um site de matemática inclusiva que tem como objetivo tornar o aprendizado de matemática acessível para pessoas surdas ou com deficiência auditiva. O site integra a Língua Brasileira de Sinais (Libras) como uma ferramenta essencial, oferecendo vídeos educativos traduzidos para Libras, além de recursos interativos, como uma calculadora acessível, que facilita a aprendizagem de conceitos matemáticos.
 
-Nome e marca do projeto
+O site foi projetado para ser intuitivo e acessível. Nele, os usuários podem acessar diversas aulas e recursos educativos de matemática, todos com a integração de Libras para garantir maior inclusão. O site é hospedado de maneira simples e eficiente, utilizando GitHub Pages.
 
-## Identidade Visual (Marca, Design)
+- Acesse o site aqui: https://brunobfranca0.github.io/matematicainterativa.github.io/
 
-O grupo deve ter o cuidado em utilizar figuras, imagens, e cores dentro do contexto da solução proposta, de forma a manter a temática do problema.
+  
+Para melhor compreensão sobre o funcionamento da solução, um vídeo demonstrativo foi preparado. O vídeo apresenta as funcionalidades do site, incluindo a navegação e os recursos de acessibilidade, e mostra como a plataforma facilita o aprendizado de matemática para todos os públicos.
 
-> **Links Úteis**:
-> - [10 dicas de design para slides](https://rockcontent.com/blog/design-para-slides/)
-> - [7 dicas de design para criar apresentações de PowerPoint incríveis e eficientes](https://www.shutterstock.com/pt/blog/7-dicas-de-design-para-criar-apresentacoes-de-powerpoint-incriveis-e-eficientes)
-> - [Especialista do TED dá 10 dicas para criar slides eficazes e bonitos](https://soap.com.br/blog/especialista-do-ted-da-10-dicas-para-criar-slides-eficazes-e-bonitos)
-
-## Conjunto de Slides (Estrutura)
-
-# Apresentação da Solução
-
-Faça uma apresentação de um resumo de todos o processo de desenvolvimento e no final apresente a solução desenvolvida, usando um pequeno vídeo.
-
-https://youtu.be/QAOM0XeuscA
+- Assista ao vídeo aqui: https://youtu.be/QAOM0XeuscA
