@@ -1,12 +1,28 @@
 # Registro de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>, <a href="8-Plano de Testes de Software.md"> Plano de Testes de Software</a>
+### **Resumo do Relatório de Resultados dos Testes de Software**
 
-Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
+Os testes realizados na plataforma educacional inclusiva visaram garantir a acessibilidade e funcionalidade para alunos com deficiência auditiva. Abaixo, estão os principais pontos dos testes:
 
-## Avaliação
+1. **Comunicação em Libras**:
+   - **Resultado**: O vídeo de boas-vindas em Libras foi exibido corretamente e a tradução foi clara.
+   - **Melhorias**: Ajustar o tempo de exibição dos elementos no vídeo para maior clareza.
 
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
+2. **Navegação nas Aulas de Matemática**:
+   - **Resultado**: As aulas de adição, subtração, multiplicação e divisão funcionaram bem, com vídeos e animações explicativas acessíveis.
+   - **Melhorias**: Otimizar a navegação para dispositivos móveis e tornar as animações mais interativas.
 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
+3. **Funcionalidade da Calculadora**:
+   - **Resultado**: A calculadora funcionou corretamente e foi acessível via teclado e dispositivos assistivos.
+   - **Melhorias**: Melhorar o contraste e a descrição dos botões para leitores de tela.
+
+4. **Responsividade e Acessibilidade**:
+   - **Resultado**: O site foi responsivo e legível em dispositivos móveis.
+   - **Melhorias**: Ajustar a formatação de textos e elementos em telas menores.
+
+5. **Acessibilidade com Leitores de Tela**:
+   - **Resultado**: A plataforma foi acessível para leitores de tela, com navegação fluida.
+   - **Melhorias**: Incluir descrições mais detalhadas para ícones e imagens.
+
+### **Conclusão**:
+A plataforma atende à maioria dos requisitos funcionais e não funcionais, garantindo uma experiência inclusiva para alunos surdos. As melhorias se concentrarão em ajustes de responsividade, acessibilidade visual e interatividade nas aulas.
