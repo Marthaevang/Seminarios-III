@@ -1,13 +1,13 @@
 ==============================================================================================================================================================
 
-Plano de Testes de Usabilidade:
+# Plano de Testes de Usabilidade:
 
-Objetivo dos Testes:
+## Objetivo dos Testes:
 Avaliar a facilidade de uso, acessibilidade e eficácia do site em atender às necessidades de usuários surdos que desejam aprender matemática básica.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Escopo
+## Escopo
 Os testes irão verificar:
 
 	- Clareza das informações visuais.
@@ -17,13 +17,13 @@ Os testes irão verificar:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Público-Alvo:
+## Público-Alvo:
 Usuários surdos de diferentes idades e níveis de familiaridade com tecnologia, com foco em alunos do ensino básico.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-Etapas do Teste:
+## Etapas do Teste:
 
-1. Preparação
+## 1. Preparação
 	-> Ferramentas Necessárias:
 
 		- Computador ou dispositivo móvel.
@@ -37,8 +37,8 @@ Etapas do Teste:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-2. Execução dos Testes
-Cenários de Uso:
+## 2. Execução dos Testes
+### Cenários de Uso:
 
 	1. Página Inicial:
 		- Identificar informações principais e acessar o primeiro conteúdo didático.
@@ -57,7 +57,7 @@ Cenários de Uso:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Métricas de Avaliação:
+## Métricas de Avaliação:
 
 	- Eficiência:
 		Tempo necessário para completar tarefas específicas.
@@ -73,7 +73,7 @@ Métricas de Avaliação:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Metodologia:
+## Metodologia:
 
 	-> Teste Moderado:
 		Facilitadores guiarão os participantes nas tarefas.
@@ -85,7 +85,7 @@ Metodologia:
 		- Gravações de tela.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Cronograma:
+## Cronograma:
 
 Duração do Teste: 30-45 minutos por participante.
 Período: Realizar os testes em 1-2 semanas.
