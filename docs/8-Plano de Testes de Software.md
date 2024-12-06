@@ -1,5 +1,3 @@
-###Plano de Testes de Software
-
 ### Cenários de Testes para a Aplicação
 
 A seguir, serão apresentados os cenários de testes realizados para avaliar se os requisitos da plataforma educacional inclusiva foram atendidos. O foco é verificar a funcionalidade e a usabilidade do sistema, garantindo que ele seja acessível e funcional para alunos com deficiência auditiva.
@@ -11,7 +9,7 @@ A seguir, serão apresentados os cenários de testes realizados para avaliar se 
 - **Funcionalidade Avaliada**: Exibição do vídeo de boas-vindas em Libras.
 - **Grupo de Usuários**: Usuários com deficiência auditiva.
 - **Ferramentas Utilizadas**:
-  - Navegador web (Chrome, Firefox).
+  - Navegador web.
   - Ferramenta de acessibilidade para testar navegação sem áudio (leitores de tela).
 - **Passos do Teste**:
   1. Acessar a página inicial.
@@ -26,7 +24,7 @@ A seguir, serão apresentados os cenários de testes realizados para avaliar se 
 - **Funcionalidade Avaliada**: Navegação na página de aulas, seleção dos tópicos de matemática e visualização do conteúdo multimídia.
 - **Grupo de Usuários**: Usuários surdos e com deficiência auditiva, com familiaridade básica com navegação na web.
 - **Ferramentas Utilizadas**:
-  - Navegador web (Google Chrome, Safari).
+  - Navegador web.
   - Ferramentas de navegação sem mouse (navegação por teclado).
   - Testes de usabilidade.
 - **Passos do Teste**:
@@ -61,7 +59,7 @@ A seguir, serão apresentados os cenários de testes realizados para avaliar se 
 - **Funcionalidade Avaliada**: Responsividade da interface e acessibilidade em dispositivos móveis.
 - **Grupo de Usuários**: Usuários surdos com diferentes tipos de dispositivos (desktop, tablet, smartphone).
 - **Ferramentas Utilizadas**:
-  - Navegador web (Chrome Developer Tools para testar responsividade).
+  - Navegador web.
   - Testes de usabilidade em diferentes dispositivos.
   - Ferramentas de acessibilidade como o **Google Lighthouse** para auditoria de acessibilidade.
 - **Passos do Teste**:
@@ -77,9 +75,6 @@ A seguir, serão apresentados os cenários de testes realizados para avaliar se 
 
 - **Funcionalidade Avaliada**: Acessibilidade com leitores de tela.
 - **Grupo de Usuários**: Usuários surdos com deficiência visual ou que utilizam leitores de tela.
-- **Ferramentas Utilizadas**:
-  - Leitores de tela como o **NVDA** ou **JAWS**.
-  - Ferramenta de auditoria de acessibilidade **Wave**.
 - **Passos do Teste**:
   1. Ativar o leitor de tela no sistema.
   2. Navegar pela página inicial, páginas de aulas e a calculadora.
@@ -89,6 +84,6 @@ A seguir, serão apresentados os cenários de testes realizados para avaliar se 
 
 ### Conclusão dos Testes
 
-Os testes realizados garantem que a plataforma cumpre os requisitos funcionais e não funcionais estabelecidos. A funcionalidade de vídeos em Libras, as aulas interativas, a calculadora acessível e a interface responsiva foram testadas com diferentes grupos de usuários e em diversos dispositivos, validando a acessibilidade e a usabilidade da plataforma.
+Os testes realizados garantem que a plataforma cumpre os requisitos funcionais e não funcionais estabelecidos. A funcionalidade de vídeos em Libras, as aulas interativas, a calculadora acessível e a interface responsiva foram testadas para validar a acessibilidade e a usabilidade da plataforma.
 
 Esses cenários de testes demonstram que a plataforma está adaptada para atender às necessidades de alunos com deficiência auditiva, garantindo um aprendizado inclusivo e interativo.
