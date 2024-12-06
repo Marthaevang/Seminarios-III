@@ -2,7 +2,7 @@
 
 # Registro de Testes de Usabilidade
 
--> Informações do Participante:
+## Informações do Participante:
 
 	- ID do Participante: [Ex.: P1]
 	- Idade:
